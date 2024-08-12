@@ -1,1 +1,3 @@
-# my-degree-verification-in-China
+# 学历认证查询
+
+可在此repo中查询我的学历
